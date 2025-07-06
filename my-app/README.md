@@ -36,12 +36,6 @@ A responsive React application that displays a list of products using the DummyJ
 
 ---
 
-## 🌐 Live Demo
-
-[👉 View Live App](https://your-live-demo-link.vercel.app)  
-(Replace with your deployed URL)
-
----
 
 ## 📦 Installation (Run Locally)
 
