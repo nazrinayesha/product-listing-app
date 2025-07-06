@@ -28,7 +28,11 @@ A responsive React application that displays a list of products using the DummyJ
 
 ## 📸 Screenshots
 
-_(Add your screenshots here once ready)_
+### Products
+![Product](screenshots/products.png)
+
+### Product-Details
+![Product](screenshots/product-details.png)
 
 ---
 
