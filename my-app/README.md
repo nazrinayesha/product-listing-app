@@ -1,12 +1,48 @@
-# React + Vite
+# 🛍️ Product Listing App - React + API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application that displays a list of products using the DummyJSON API. Includes features like search, category filtering, sorting, login-protected routes, and dynamic product details with image previews.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search products by name
+- 🎯 Filter by category
+- 💰 Sort by price and rating
+- 🔐 Route protection based on login status
+- 🖼️ Detailed product view with image gallery
+- 📱 Responsive UI with Bootstrap 5
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- Axios
+- React Router v6
+- Bootstrap 5
+- DummyJSON API
+
+---
+
+## 📸 Screenshots
+
+_(Add your screenshots here once ready)_
+
+---
+
+## 🌐 Live Demo
+
+[👉 View Live App](https://your-live-demo-link.vercel.app)  
+(Replace with your deployed URL)
+
+---
+
+## 📦 Installation (Run Locally)
+
+```bash
+git clone https://github.com/yourusername/product-listing-app.git
+cd product-listing-app
+npm install
+npm run dev
